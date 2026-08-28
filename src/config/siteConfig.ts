@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "blog",
 
 	// 站点 URL
-	site_url: "blog.shengxuanmin.workers.dev",
+	site_url: "https://blog.shengxuanmin.workers.dev",
 
 	// 站点描述
 	description:
